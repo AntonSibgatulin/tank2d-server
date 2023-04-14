@@ -1,0 +1,59 @@
+{
+  "name": "CONCAT",
+  "m0": {
+    "price": 5000,
+    "maxShoot": 50,
+    "minShoot": 40,
+    "timeReload": 2500,
+    "maxSplash": 12,
+    "minSplash": 11,
+    "speed": 20,
+    "hull_speed": 3,
+    "health": 350,
+    "width": 75,
+    "height": 40,
+    "maxDistance": 250
+  },
+  "m1": {
+    "price": 15000,
+    "maxShoot": 85,
+    "minShoot": 50,
+    "timeReload": 2300,
+    "maxSplash": 15,
+    "minSplash": 11,
+    "speed": 22,
+    "hull_speed": 3,
+    "health": 420,
+    "width": 75,
+    "height": 40,
+    "maxDistance": 300
+  },
+  "m2": {
+    "price": 35000,
+    "maxShoot": 100,
+    "minShoot": 14,
+    "timeReload": 2000,
+    "maxSplash": 16,
+    "minSplash": 11,
+    "speed": 24,
+    "hull_speed": 4,
+    "health": 550,
+    "width": 75,
+    "height": 40,
+    "maxDistance": 300
+  },
+  "m3": {
+    "price": 85000,
+    "maxShoot": 150,
+    "minShoot": 90,
+    "timeReload": 1800,
+    "maxSplash": 16,
+    "minSplash": 13,
+    "speed": 25,
+    "hull_speed": 4,
+    "health": 700,
+    "width": 75,
+    "height": 40,
+    "maxDistance": 350
+  }
+}

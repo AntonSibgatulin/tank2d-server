@@ -1,0 +1,59 @@
+{
+  "name": "T15",
+  "m0": {
+    "price": 500,
+    "maxShoot": 16,
+    "minShoot": 8,
+    "timeReload": 300,
+    "maxSplash": 12,
+    "minSplash": 11,
+    "speed": 20,
+    "hull_speed": 10,
+    "health": 60,
+    "width": 81,
+    "height": 42,
+    "maxDistance": 500
+  },
+  "m1": {
+    "price": 1500,
+    "maxShoot": 20,
+    "minShoot": 11,
+    "timeReload": 250,
+    "maxSplash": 12,
+    "minSplash": 11,
+    "speed": 22,
+    "hull_speed": 11,
+    "health": 120,
+    "width": 81,
+    "height": 42,
+    "maxDistance": 600
+  },
+  "m2": {
+    "price": 3500,
+    "maxShoot": 23,
+    "minShoot": 14,
+    "timeReload": 200,
+    "maxSplash": 12,
+    "minSplash": 11,
+    "speed": 24,
+    "hull_speed": 13,
+    "health": 100,
+    "width": 81,
+    "height": 42,
+    "maxDistance": 700
+  },
+  "m3": {
+    "price": 85000,
+    "maxShoot": 25,
+    "minShoot": 16,
+    "timeReload": 200,
+    "maxSplash": 12,
+    "minSplash": 11,
+    "speed": 25,
+    "hull_speed": 14,
+    "health": 180,
+    "width": 81,
+    "height": 42,
+    "maxDistance": 800
+  }
+}

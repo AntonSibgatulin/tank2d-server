@@ -1,0 +1,59 @@
+{
+  "name": "T34",
+  "m0": {
+    "price": 0,
+    "maxShoot": 35,
+    "minShoot": 24,
+    "timeReload": 2000,
+    "maxSplash": 38,
+    "minSplash": 26,
+    "speed": 15,
+    "hull_speed": 5,
+    "health": 110,
+    "width": 64,
+    "height": 41,
+    "maxDistance": 1500
+  },
+  "m1": {
+    "price": 6500,
+    "maxShoot": 60,
+    "minShoot": 45,
+    "timeReload": 1800,
+    "maxSplash": 40,
+    "minSplash": 28,
+    "speed": 18,
+    "hull_speed": 7,
+    "health": 270,
+    "width": 64,
+    "height": 41,
+    "maxDistance": 1400
+  },
+  "m2": {
+    "price": 18500,
+    "maxShoot": 80,
+    "minShoot": 65,
+    "timeReload": 1600,
+    "maxSplash": 42,
+    "minSplash": 30,
+    "speed": 20,
+    "hull_speed": 8,
+    "health": 350,
+    "width": 64,
+    "height": 41,
+    "maxDistance": 1800
+  },
+  "m3": {
+    "price": 25000,
+    "maxShoot": 100,
+    "minShoot": 80,
+    "timeReload": 1500,
+    "maxSplash": 44,
+    "minSplash": 32,
+    "speed": 22,
+    "hull_speed": 9,
+    "health": 450,
+    "width": 64,
+    "height": 41,
+    "maxDistance": 2500
+  }
+}
